@@ -1,0 +1,194 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rheem Split AC 1.5 Ton",
+      "brand": "Rheem",
+      "category": "Split AC",
+      "tonnage": "1.5",
+      "color": "White",
+      "coverageArea": "150-200 sq ft",
+      "price": 35000,
+      "originalPrice": 42000,
+      "rating": 4,
+      "reviews": 120,
+      "isTopSelling": true,
+      "description": "High efficiency split AC with fast cooling and low noise.",
+      "features": ["Inverter Technology", "Copper Condenser", "Anti-bacterial Filter"],
+      "images": [
+        "/images/Split AC 1.5 Ton.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rheem Window AC 1 Ton",
+      "brand": "Rheem",
+      "category": "Window AC",
+      "tonnage": "1",
+      "color": "Silver",
+      "coverageArea": "100-150 sq ft",
+      "price": 25000,
+      "originalPrice": 30000,
+      "rating": 3.8,
+      "reviews": 80,
+      "isTopSelling": false,
+      "description": "Compact window AC suitable for small rooms.",
+      "features": ["Energy Efficient", "Easy Installation", "Dust Filter"],
+      "images": [
+        "/images/Window AC 1.5 Ton.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rheem Cassette AC 2 Ton",
+      "brand": "Rheem",
+      "category": "Cassette AC",
+      "tonnage": "2",
+      "color": "White",
+      "coverageArea": "200-300 sq ft",
+      "price": 60000,
+      "originalPrice": 70000,
+      "rating": 4.5,
+      "reviews": 60,
+      "isTopSelling": true,
+      "description": "Powerful cassette AC for large spaces and offices.",
+      "features": ["360° Airflow", "Silent Operation", "Remote Control"],
+      "images": [
+        "/images/Midea-2-Ton-Cassette-Type-AC-MCA-24CR.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rheem Split AC 2 Ton Inverter",
+      "brand": "Rheem",
+      "category": "Split AC",
+      "tonnage": "2",
+      "color": "Grey",
+      "coverageArea": "200-250 sq ft",
+      "price": 48000,
+      "originalPrice": 55000,
+      "rating": 4.2,
+      "reviews": 95,
+      "isTopSelling": false,
+      "description": "Inverter split AC with advanced cooling technology.",
+      "features": ["Inverter Compressor", "WiFi Enabled", "Self Diagnosis"],
+      "images": [
+        "/images/Split AC 2 Ton Inverter.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Rheem Window AC 1.5 Ton",
+      "brand": "Rheem",
+      "category": "Window AC",
+      "tonnage": "1.5",
+      "color": "White",
+      "coverageArea": "150-200 sq ft",
+      "price": 32000,
+      "originalPrice": 37000,
+      "rating": 3.9,
+      "reviews": 70,
+      "isTopSelling": true,
+      "description": "Reliable window AC for medium-sized rooms.",
+      "features": ["Copper Coil", "Turbo Cooling", "Sleep Mode"],
+      "images": [
+        "/images/Window AC 1.5 Ton.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rheem Portable AC 1 Ton",
+      "brand": "Rheem",
+      "category": "Portable AC",
+      "tonnage": "1",
+      "color": "Black",
+      "coverageArea": "80-120 sq ft",
+      "price": 22000,
+      "originalPrice": 26000,
+      "rating": 3.7,
+      "reviews": 45,
+      "isTopSelling": false,
+      "description": "Portable AC for flexible cooling anywhere.",
+      "features": ["Easy Mobility", "Remote Control", "Low Power Consumption"],
+      "images": [
+        "/images/Midea-2-Ton-Cassette-Type-AC-MCA-24CR.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rheem Split AC 1 Ton Eco",
+      "brand": "Rheem",
+      "category": "Split AC",
+      "tonnage": "1",
+      "color": "Blue",
+      "coverageArea": "100-150 sq ft",
+      "price": 28000,
+      "originalPrice": 34000,
+      "rating": 4.1,
+      "reviews": 55,
+      "isTopSelling": false,
+      "description": "Eco-friendly split AC with low energy consumption.",
+      "features": ["Eco Mode", "Copper Coil", "Silent Operation"],
+      "images": [
+        "/images/Split AC 1 Ton Eco.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Rheem Cassette AC 3 Ton",
+      "brand": "Rheem",
+      "category": "Cassette AC",
+      "tonnage": "3",
+      "color": "White",
+      "coverageArea": "300-400 sq ft",
+      "price": 75000,
+      "originalPrice": 85000,
+      "rating": 4.6,
+      "reviews": 30,
+      "isTopSelling": true,
+      "description": "High capacity cassette AC for commercial spaces.",
+      "features": ["360° Airflow", "Smart Control", "Energy Saver"],
+      "images": [
+        "/images/3-ton-daikin-cassette-ac.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rheem Window AC 2 Ton",
+      "brand": "Rheem",
+      "category": "Window AC",
+      "tonnage": "2",
+      "color": "Grey",
+      "coverageArea": "200-250 sq ft",
+      "price": 39000,
+      "originalPrice": 45000,
+      "rating": 4.0,
+      "reviews": 65,
+      "isTopSelling": false,
+      "description": "Window AC with powerful cooling for large rooms.",
+      "features": ["Turbo Cooling", "Copper Coil", "Auto Restart"],
+      "images": [
+        "/images/Midea-2-Ton-Cassette-Type-AC-MCA-24CR.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Rheem Split AC 1.5 Ton Premium",
+      "brand": "Rheem",
+      "category": "Split AC",
+      "tonnage": "1.5",
+      "color": "Silver",
+      "coverageArea": "150-200 sq ft",
+      "price": 42000,
+      "originalPrice": 50000,
+      "rating": 4.3,
+      "reviews": 110,
+      "isTopSelling": true,
+      "description": "Premium split AC with advanced air purification.",
+      "features": ["Air Purifier", "WiFi Enabled", "Inverter Technology"],
+      "images": [
+        "/images/Split AC 1.5 Ton Premium.webp"
+      ]
+    }
+  ]
+}
